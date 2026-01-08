@@ -1,0 +1,5 @@
+{
+  "name": "SparkGrid VPP Simulator",
+  "description": "An interactive Virtual Power Plant management dashboard where users can orchestrate distributed energy resources, simulate grid scenarios, and get AI-powered optimization advice from Gemini.",
+  "requestFramePermissions": []
+}
